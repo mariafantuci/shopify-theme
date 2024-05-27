@@ -1,0 +1,13 @@
+{
+  "name": "dawn-theme",
+  "version": "1.0.0",
+  "description": "this is a shopify base theme with extra sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "theme deploy --allow-live",
+    "dev": "theme watch --allow-live"
+  },
+  "author": "mariafantuci",
+  "license": "ISC"
+}
